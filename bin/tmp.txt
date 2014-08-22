@@ -1,0 +1,57 @@
+if (AuroraCoin == pair.first) {
+  return '161';
+} else if (BatCoin == pair.first) {
+  return '186';
+} else if (Caix == pair.first) {
+  return '222';
+} else if (CryptogenicBullion == pair.first) {
+  return '123';
+} else if (ColossusCoin == pair.first) {
+  return '109';
+} else if (DimeCoin == pair.first) {
+  return '206';
+} else if (DamaCoin == pair.first) {
+  return '194';
+} else if (Franko == pair.first) {
+  return '171';
+} else if (FastCoin == pair.first) {
+  return '124';
+} else if (KarmaCoin == pair.first) {
+  return '193';
+} else if (MaxCoin == pair.first) {
+  return '218';
+} else if (MegaCoin == pair.first) {
+  return '100';
+} else if (MoonCoin == pair.first) {
+  return '145';
+} else if (NetCoin == pair.first) {
+  return '108';
+} else if (PeerCoin == pair.first) {
+  return '125';
+} else if (PhoenixCoin == pair.first) {
+  return '101';
+} else if (Quark == pair.first) {
+  return '126';
+} else if (RabbitCoin == pair.first) {
+  return '190';
+} else if (StableCoin == pair.first) {
+  return '128';
+} else if (SilkCoin == pair.first) {
+  return '226';
+} else if (TeslaCoin == pair.first) {
+  return '224';
+} else if (FedoraCoin == pair.first) {
+  return '147';
+} else if (Tickets == pair.first) {
+  return '107';
+} else if (VeriCoin == pair.first) {
+  return '215';
+} else if (VertCoin == pair.first) {
+  return '217';
+} else if (X11Coin == pair.first) {
+  return '216';
+} else if (PrimeCoin == pair.first) {
+  return '106';
+} else if (ZeitCoin == pair.first) {
+  return '176';
+}

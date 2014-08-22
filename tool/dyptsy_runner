@@ -1,0 +1,8 @@
+#!/usr/bin/env dart
+import 'dart:io';
+
+void main (List<String> args) {
+  ProcessResult result = Process.runSync('tool/hop_runner.dart', args, 
+    workingDirectory: '/home/andrea/dart/dyptsy');
+  print(result.stdout is String ? result.stdout : result.stderr);
+}

@@ -1,0 +1,15 @@
+name: dyptsy
+description: Dyptsy
+dependencies:
+  hop: any
+  html5lib: ">=0.11.0+1 <0.12.0"
+  json: any
+  orm:
+    git: git://github.com/k4rr1m/dart-orm
+  sqljocky: '>=0.11.0 <0.12.0'
+  unittest: any
+  utils:
+    git: git://github.com/k4rr1m/dart-utils
+transformers:
+- polymer:
+    entry_points: web/dyptsy.html

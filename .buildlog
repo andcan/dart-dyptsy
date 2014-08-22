@@ -1,0 +1,470 @@
+---
+build.dart --machine --full
+
+build.dart finished [3979 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [2677 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [2371 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2211 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2514 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2418 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [5640 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2263 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2253 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [1989 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [1899 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2412 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [7281 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [8445 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [3477 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2230 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2118 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2065 ms]
+
+---
+build.dart --machine --clean
+
+build.dart finished [2062 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2557 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2906 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2240 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2164 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2275 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2440 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2194 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2266 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2218 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [3595 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2393 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [9422 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [7481 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2490 ms]
+
+---
+build.dart --machine --changed=build/web/clickcounter.dart --changed=build/web/clickcounter.html --changed=buil...
+
+build.dart finished [7382 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [11482 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [3741 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy.html
+
+build.dart finished [1990 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.html --removed=web/elements/dyptsy.html
+
+build.dart finished [2281 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.dart
+
+build.dart finished [2092 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.html
+
+build.dart finished [2232 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.dart
+
+build.dart finished [2130 ms]
+
+---
+build.dart --machine --changed=web/dyptsy.html
+
+build.dart finished [1970 ms]
+
+---
+build.dart --machine --changed=web/dyptsy.html
+
+build.dart finished [2483 ms]
+
+---
+build.dart --machine --changed=web/dyptsy.html
+
+build.dart finished [2003 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.dart
+
+build.dart finished [1909 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.dart
+
+build.dart finished [2160 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1887 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.dart
+
+build.dart finished [2101 ms]
+
+---
+build.dart --machine --changed=web/elements/dyptsy-market.dart
+
+build.dart finished [1995 ms]
+
+---
+build.dart --machine --changed=lib/dyptsy.dart
+
+build.dart finished [2724 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1960 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1869 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2011 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2041 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1882 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1904 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1907 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1945 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1874 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2135 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1935 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1935 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1907 ms]
+
+---
+build.dart --machine --changed=test.dart/dyptsy.dart
+
+build.dart finished [2205 ms]
+
+---
+build.dart --machine --changed=test.dart/dyptsy.dart
+
+build.dart finished [2067 ms]
+
+---
+build.dart --machine --changed=test/dyptsy.dart --removed=test.dart/dyptsy.dart
+
+build.dart finished [2423 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart --removed=test/dyptsy.dart
+
+build.dart finished [2136 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2140 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2222 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1882 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1893 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1973 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1991 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2002 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2305 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1971 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2324 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2446 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2416 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2038 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [1934 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [2210 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [4024 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2029 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2020 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2050 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [2009 ms]
+
+---
+build.dart --machine --changed=lib/dypsy/api.dart
+
+build.dart finished [2117 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [2218 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [2017 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [2073 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [2474 ms]
+
+---
+build.dart --machine --changed=bin/dyptsy.dart
+
+build.dart finished [1941 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [4679 ms]
+
